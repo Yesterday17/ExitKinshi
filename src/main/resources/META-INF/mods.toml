@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="https://github.com/Yesterday17/ExitKinshi/"
+
+[[mods]]
+modId="exitkinshi"
+version="${file.jarVersion}"
+displayName="Exit Kinshi"
+displayURL="https://mmf.moe/"
+credits="All players who don't want to close their modpack accidentally."
+authors="Yesterday17"
+description='''
+Minna no egao no tameni:)
+'''
+[[dependencies.exitkinshi]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
