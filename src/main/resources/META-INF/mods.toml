@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/Yesterday17/ExitKinshi/"
 
 [[mods]]
 modId="exitkinshi"
-version="${file.jarVersion}"
+version="1.0"
 displayName="Exit Kinshi"
 displayURL="https://mmf.moe/"
 credits="All players who don't want to close their modpack accidentally."
